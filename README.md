@@ -13,3 +13,5 @@ paleta
  
  borrar
  
+ tus papas
+ 
